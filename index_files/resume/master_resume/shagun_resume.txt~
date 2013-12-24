@@ -1,0 +1,106 @@
+2200, Waterview Pkway Shagun Jhaver 972-740-4821 (phone)
+Richardson, Texas 75080 sxj124330@utdallas.edu
+
+Objective
+ To obtain a Summer 2014 internship in the field of Computer Science.
+
+Education
+
+      Master of Science in Computer Science Expected Dec 2014
+   *
+      The University of Texas at Dallas, Richardson, Texas GPA: 3.945/4
+      Bachelor of Technology in Electrical Engineering August 2010
+   *
+      Indian Institute of Technology (IIT) Bombay, Mumbai, India GPA: 7.46/10
+
+Programming Skills
+
+Languages: Python, C++, Java Operating Systems: Linux, Windows
+Miscellaneous: Hadoop, MapReduce, Pig Latin, Hive, Mahout, Cassandra, MySQL, Git, MATLAB, HTML,
+      CSS, Javascript, jQuery
+
+Research Projects
+      Developing a new system for Big Data Analytics Summer 2013
+   *
+      Brown University Providence, Rhode Island
+        => Worked on a project to construct a distributed memory abstraction using LLVM and Julia that lets
+            the programmers perform in-memory computations on large clusters in a fault-tolerant manner.
+
+      Hybridization Methods for the analysis of Biomolecular Networks May 2009 - July 2009
+   *
+      Institut National De Recherche En Informatique Et En Automatique Paris, France
+        => Proposed a mathematical model to calculate Violation Degree, a measure of how far a given numerical
+            trace is from satisfying a temporal logic specification.
+        => Composed a MATLAB library to implement this model
+        => Increased the calculation speed of Violation Degree by about 30 times and demonstrated the
+            calculations for more complex specification models and properties.
+        => Fashioned this library to guide the search for models satisfying a given specification.
+
+
+Relevant Coursework
+   * Design and Analysis of Computer Algorithms * Machine Learning
+   * Artificial Intelligence * Natural Language Processing
+   * Advanced Database: Big Data Analytics * Discrete Mathematics
+   * Database Design * Operating Systems Concepts
+
+Academic Projects
+      Comparative analysis of approaches to sentiment analysis of tweets Jan 2013 - May 2013
+   *
+      Guide: Prof. Latifur Khan
+        => Implemented an application of twitter data processing in Java that predicted the ratings of movies
+            using three different approaches, and compared the ratings obtained with IMDB rating.
+        => The first approach used standard lists of positive and negative words to classify each tweet.
+        => The second approach used the sentiment140 api for the classification using MapReduce.
+        => The third approach created a classification model using a training-and-testing data with naive Bayes
+            method in Mahout, and then used this model to classify each tweet, thereby rating it.
+                                                                                                                    
+
+      Programming Project in Artificial Intelligence Jan 2013 - May 2013
+   *
+      Guide: Prof. Haim Schweitzer
+        => Designed and developed a project in Python that simulates Nine Men's Morris board game.
+        => Wrote efficient codes to output the best possible moves using the Minimax algorithm and alpha-beta
+           pruning algorithm. The code worked correctly for both white and black players, and in the opening,
+           midgame and end-game phases.
+        => Earned the position of first champion in the tournament for this game in the class (76 students)
+           using reliable and fast code and innovative self-designed static estimation algorithms.
+      Date-Intensive Text Processing with MapReduce Jan 2013 - Feb 2013
+   *
+        => Applied Hadoop mapreduce to derive innovative statistics from the White House Visitor Log
+           containing 2.9 million records.
+        => Wrote efficient programs in Java to output the results and used mapreduce chaining for efficiency.
+      Database Design and Implementation Project Aug 2012 - Dec 2012
+   *
+        => Compiled a conceptual design (EER model) for a large custom City library database project.
+        => Developed a relational schema in third normal form for this design and wrote SQL statements to
+           create the database and views, populate the tables and solve challenging queries.
+        => Assembled the database in Oracle and used a database state to verify the correctness of queries.
+
+Professional Experience
+
+      Software Developer Jan 2011 - June 2012
+   *
+      Future Bazaar Mumbai, India
+        => Head of the Analytics and Business Intelligence Team.
+        => Constructed an architecture to carry out ETL (extract, transform and load) processes from multiple
+           databases (ATG, Oracle, MySQL) into a single MySQL database.
+        => Conceptualized and implemented Order Life-cycle Management, a system to assign and regulate
+           order-states to the order-items using Python.
+        => Independently developed sellers.futurebazaar.com, an interface for the sellers to track orders, sales
+           summary and product reviews, upload product inventory and edit profile settings.
+        => Helped design and build the E-commerce platforms for the websites futurebazaar.com and
+           chaupaati.in using Django, a Python based website framework.
+Other Work Experience
+
+
+      Math Lab Tutor Jan 2013 - Present
+   *
+      The Student Success Center, The University of Texas at Dallas Richardson, Texas
+        => Tutor students at the University of Texas at Dallas on an individual or group basis.
+        => Assist in a wide variety of subject areas including math, physics and statistics.
+
+Honours
+   * All India Rank 94 in Indian Institute of Technology Joint Entrance Exam 2006 among 300,000 students.
+   * All India Rank 396 in All India Engineering Entrance Exam 2006 among 500,000 aspirants.
+   * Selected from the state for the 4th Invitational World Youth Mathematics Intercity Competition.
+                                                                                                              
