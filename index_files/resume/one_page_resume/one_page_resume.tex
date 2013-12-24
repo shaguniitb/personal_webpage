@@ -15,8 +15,19 @@
 \usepackage{pifont}
 \usepackage{fancyhdr} %Required for custom headers
 \usepackage{multicol}
+\usepackage{hyperref}
 \setlength{\headheight}{0.5in}
 \usepackage{lastpage} %Required to determine the last page for the footer 
+
+\usepackage{xcolor}
+\definecolor{dark-red}{rgb}{0.4,0.15,0.15}
+\definecolor{dark-blue}{rgb}{0.15,0.15,0.4}
+\definecolor{medium-blue}{rgb}{0,0,0.5}
+\hypersetup{
+    colorlinks, linkcolor={dark-red},
+    citecolor={dark-blue}, urlcolor={medium-blue}
+}
+
 \definecolor{mygrey}{gray}{0.80}
 \raggedbottom
 \raggedright
@@ -60,11 +71,13 @@
 }
 \lhead{
 \small
+Apt. 1633 \\
 2200, Waterview Pkway \\ 
 Richardson, Texas 75080 
 }
 \rhead{
 \small
+\url{www.utdallas.edu/~shagun.jhaver} \\
 972-740-4821 (phone) \\
 sxj124330@utdallas.edu
 }
